@@ -1,4 +1,6 @@
 console.log("Starting server.js");
+
+console.log("changes");
 const express = require("express");
 const hbs = require("hbs");
 const fs = require("fs");
